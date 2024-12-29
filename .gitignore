@@ -1,0 +1,10 @@
+# Exclude virtual environment
+gem_env/
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude environment files
+.env
