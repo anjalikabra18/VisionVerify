@@ -1,7 +1,3 @@
-Here’s a more polished, interactive, and cleaner version of your project description:
-
----
-
 # VisionVerify: Multimodal AI Agent with Deepfake Detection 👁️
 
 **VisionVerify** is a next-generation AI application that combines video analysis and web research into one seamless experience. By leveraging the power of Google's Gemini 2.0 Flash model, TensorFlow, and the Phidata framework, VisionVerify delivers advanced capabilities for video understanding, deepfake detection, and real-time information retrieval.
